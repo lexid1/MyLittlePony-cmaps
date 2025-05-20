@@ -1,4 +1,4 @@
-# MyLittlePony-healpy-cmaps
+# MyLittlePony-cmaps
 These are custom made colour maps used to plot Healpix maps in Mollweide projection, that I made in honour of my childhood favourite MLP characters. 
 
 # 🎨 Custom Colormaps for Healpy and Matplotlib
@@ -22,6 +22,8 @@ The goal is to provide visually distinct color palettes for sky maps and other s
 You can import these colormaps directly in Python:
 
 ```python
+# Custom colormap by Aleksandra Dragovic, University of Cambridge – Licensed under CC BY 4.0
+# https://github.com/lexid1/MyLittlePony-cmaps
 import matplotlib.pyplot as plt
 import numpy as np
 from my_colormaps import newcmp  # or however you structure your import
