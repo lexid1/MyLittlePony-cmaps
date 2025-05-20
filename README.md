@@ -3,7 +3,7 @@ These are custom made colour maps used to plot Healpix maps in Mollweide project
 
 # 🎨 Custom Colormaps for Healpy and Matplotlib
 
-This repository contains custom colormaps designed for use with [Healpy](https://healpy.readthedocs.io/en/latest/) and general-purpose plotting.
+This repository contains custom colormaps designed for use with [Healpy](https://healpy.readthedocs.io/en/latest/) and general-purpose NumPy/Matplotlib plotting.
 
 The goal is to provide visually distinct color palettes for sky maps and other scientific plots — especially helpful for radio astronomy, cosmology, and CMB/foreground studies, but a little bit more unique and with a twist!
 
